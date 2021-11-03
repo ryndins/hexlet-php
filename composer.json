@@ -1,0 +1,11 @@
+{
+    "name": "hex/example",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "Stanislav",
+            "email": "s.ryndin@wssupport.ru"
+        }
+    ],
+    "require": {}
+}
